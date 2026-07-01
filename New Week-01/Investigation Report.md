@@ -1,9 +1,10 @@
-##1. Introduction
+## 1. Introduction
 
 - What API was investigated?
---
 
-##2. Objectives
+ 
+
+## 2. Objectives
 
 Example:
 
@@ -11,9 +12,9 @@ Example:
 - Learn authentication
 - Test CRUD operations
 - Prepare for integration
---
 
-##3. Findings
+
+## 3. Findings
 
 Include:
 
@@ -24,18 +25,18 @@ Include:
 - Headers
 - Variables
 
---
 
-##4. Risks
+
+## 4. Risks
+
 
 Example:
 
 - No authentication required (test API)
 - Fake data only
 - Not suitable for production
---
 
-##5. Recommendations
+## 5. Recommendations
 
 Example:
 
@@ -43,6 +44,6 @@ Example:
 - Add API versioning
 - Add rate limiting
 - Improve API documentation
---
+
 
 
