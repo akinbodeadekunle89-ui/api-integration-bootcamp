@@ -43,6 +43,6 @@ The objective was to understand the API structure, endpoints, authentication app
 ---
 
 ## Author
-
 Adekunle Akinbode
+
 Junior API Integration Engineer
