@@ -1,5 +1,5 @@
 |Test ID  |Endpoint	 |Method	 |Expected Result|
-|--------|----------|---------|
+|--------|----------|---------|----------------|
 
 |TC001 |	  /users	   |   GET	   |   200 OK
 |TC002 |   /users/1	   |   GET	   |   User 1 returned
